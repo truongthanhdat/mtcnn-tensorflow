@@ -18,6 +18,8 @@ The original source code can be found [here](https://github.com/davidsandberg/fa
 
 In additional, you can use Caffe version which can be found [here](https://github.com/kpzhang93/MTCNN_face_detection_alignment)
 
+MTCNN requires GPU for real-time running.
+
 ## Contact
 
 Thanh-Dat Truong
